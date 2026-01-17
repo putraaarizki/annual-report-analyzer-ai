@@ -20,8 +20,8 @@ Project ini dibangun untuk mempermudah ekstraksi *insight* dari Laporan Tahunan 
 Project ini menggunakan teknologi *Low-Code* yang dipadukan dengan *Modern AI Stack*:
 
 * **Orchestration:** [n8n](https://n8n.io/) (Self-hosted / Cloud)
-* **LLM (Brain):** OpenAI GPT-4o / GPT-3.5-turbo (bisa disesuaikan)
-* **Vector Store (Memory):** Pinecone / Qdrant / Supabase Vector
+* **LLM (Brain):** gemini 2.5 flash
+* **Vector Store (Memory):** Supabase Vector
 * **Embeddings:** OpenAI text-embedding-3-small
 
 ## ⚙️ Cara Kerja (Workflow)
